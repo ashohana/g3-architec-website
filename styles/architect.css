@@ -137,6 +137,17 @@ main{
     margin-bottom: 10px;
 }
 
+/* sponsors section*/
+.sponsors{
+    text-align: center;
+}
+
+.sponsor-img-container{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-evenly;
+}
+
 
 
 
